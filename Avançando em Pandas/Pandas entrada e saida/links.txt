@@ -1,0 +1,5 @@
+https://guilhermeonrails.github.io/nomes_ibge/nomes-m.json
+
+https://guilhermeonrails.github.io/nomes_ibge/nomes-f.json
+
+http://tabela-cursos.herokuapp.com/index.html
